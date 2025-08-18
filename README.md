@@ -1,2 +1,2 @@
 # sql-Questions
-ANswer upload alond with notes 
+ANswer upload along with notes 
